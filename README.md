@@ -2,6 +2,9 @@
 
 Expense Tracker is a simple web application developed using the MERN stack that helps users keep track of their income, expenses, and overall balance.
 
+![WhatsApp Image 2024-03-12 at 18 57 56_b1de6707](https://github.com/Janani-m17/Expense_Tracker-MERN/assets/124059957/07e32060-4200-43e8-893d-3f60942b6b18)
+
+
 ## Features
 
 - **Income and Expense Tracking:** Users can add and categorize their income and expenses, providing a detailed overview of their financial activities.
