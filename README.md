@@ -23,7 +23,7 @@ Expense Tracker is a simple web application developed using the MERN stack that 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/expense-tracker.git
+git clone [https://github.com/Janani-m17/Expense_Tracker-MERN.git]
 ```
 
 2. Navigate to the project directory:
